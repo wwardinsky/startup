@@ -1,2 +1,2 @@
 # startup
-for cs-260
+this will be my startup application for cs-260!
