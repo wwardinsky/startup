@@ -1,2 +1,2 @@
 # startup
-this will be my startup application for cs-260!
+making more changes for this assignment
