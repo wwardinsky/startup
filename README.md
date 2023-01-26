@@ -1,2 +1,2 @@
 # startup
-making changes to readme again
+changes from vscode and github, merged together
